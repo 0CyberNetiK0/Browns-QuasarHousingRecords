@@ -21,7 +21,7 @@ can actually have access to player owned house records in a server that uses Qua
 Qausar Housing by Quasar Scripts: https://buy.quasar-store.com/package/5677308
 
 # Installation:
-1. completely set up the Loaf Housing Script (if not already set up)
+1. completely set up the Quasar Housing Script (if not already set up)
 2. run the 'housingrecords' SQL file
 3. Configure to your liking/compatibilties in 'config.lua'
 
